@@ -7,4 +7,7 @@ Cambio desde Github
 Nuevo cambio
 ## Bienvenidos este es un Repo Test
 
-Cambio desde developer
+Ahora tengo un nuevo cambio amigos!
+
+### Como encontrar los cambios
+utiliza git fetch origin para obtener la versión de Github
