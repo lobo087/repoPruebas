@@ -1,4 +1,4 @@
-# repoPruebas
+# Repositorio de Pruebas
 
 
 Mi primera prueba 
@@ -14,5 +14,4 @@ Ahora tengo un nuevo cambio amigos!
 ### Como encontrar los cambios
 utiliza git fetch origin para obtener la versión de Github
 
-Cambio desde developer
 
