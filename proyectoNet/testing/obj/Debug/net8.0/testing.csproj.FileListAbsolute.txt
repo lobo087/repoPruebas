@@ -1,0 +1,15 @@
+/workspaces/repoPruebas/proyectoNet/testing/bin/Debug/net8.0/testing
+/workspaces/repoPruebas/proyectoNet/testing/bin/Debug/net8.0/testing.deps.json
+/workspaces/repoPruebas/proyectoNet/testing/bin/Debug/net8.0/testing.runtimeconfig.json
+/workspaces/repoPruebas/proyectoNet/testing/bin/Debug/net8.0/testing.dll
+/workspaces/repoPruebas/proyectoNet/testing/bin/Debug/net8.0/testing.pdb
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/testing.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/testing.AssemblyInfoInputs.cache
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/testing.AssemblyInfo.cs
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/testing.csproj.CoreCompileInputs.cache
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/testing.sourcelink.json
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/testing.dll
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/refint/testing.dll
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/testing.pdb
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/testing.genruntimeconfig.cache
+/workspaces/repoPruebas/proyectoNet/testing/obj/Debug/net8.0/ref/testing.dll
