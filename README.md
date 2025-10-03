@@ -18,3 +18,7 @@ utiliza git fetch origin para obtener la versión de Github
 ## Utilizando nueva Rama
 
 Estos cambios se han realizado desde mi rama developer
+
+## Utilizando dev editor
+
+Estos cambios se han realizado desde la web mediante dev editor
